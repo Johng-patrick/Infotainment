@@ -17,7 +17,7 @@ public class Book {
      * @param publicationYear
      */
     public Book(String title, String author, String publisher, int publicationYear) {
-        this.title1 = title;
+        this.title = title;
         this.author = author;
         this.publisher = publisher;
         this.publicationYear = publicationYear;
