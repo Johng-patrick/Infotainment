@@ -21,8 +21,7 @@ public class Book {
         this.author = author;
         this.publisher = publisher;
         this.publicationYear = publicationYear;
-        book =1010;
-    }
+        }
 
     /**
      * Returns title of this book.
